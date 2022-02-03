@@ -1,0 +1,14 @@
+{
+  "name": "virdini/vadmin",
+  "description": "Administration theme based on Seven theme.",
+  "type": "drupal-custom-theme",
+  "license": "GPL-2.0-or-later",
+  "homepage": "https://virdini.com",
+  "support": {
+    "email": "tech@virdini.com",
+    "source": "https://github.com/Virdini/vadmin"
+  },
+  "require": {
+    "drupal/core-recommended": "^9"
+  }
+}
